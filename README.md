@@ -31,8 +31,8 @@ The challenge was to build a recipe page solution and make sure the layout,spaci
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Oladeni-Aminat/Recipe-page/)
+- Live Site URL: [Add live site URL here]( https://oladeni-aminat.github.io/Recipe-page/)
 
 ## My process
 I started by creating the HTML structure of the webpage and arrange them according to the design.
