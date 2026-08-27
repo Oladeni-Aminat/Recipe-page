@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    min-height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'outfit', 'young-serif', sans-serif;
+    background-color: hsl(31, 53%, 90%);
+    padding: 40px 20px;
+}
+main{
+    width: 600px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 16px;
+    text-align: left;
+    box-shadow: none;
+    font-size: medium;
+    font-weight: 400;
+}
+img{
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 16px;
+}
+
+h1{
+    font-size: bold;
+    margin-bottom: 10px;
+}
+p{
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+.Preparation-time{
+    background-color: hsl(330, 100%, 98%);
+    width: auto;
+    height: 120px;
+    border-radius: 10px;
+    padding-left: 40px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+h4{
+    font-weight: bold;
+    margin-bottom: 10px;
+     color: hsl(14, 45%, 36%);
+}
+li{
+    margin-bottom: 10px;
+   
+}
+.Ingredients{
+    padding-left: 20px;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+.Ingredients h3{
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: hsl(14, 45%, 36%);
+}
+.Instructions{
+    padding-left: 20px;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+.Instructions h3{
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: hsl(14, 45%, 36%);
+}
+h3{
+    font-weight: bold;
+    margin-top: 5px;
+    color: hsl(14, 45%, 36%);
+    margin-bottom: 10px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+table tr{
+    padding: 12px 20px;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 10px;
+    height: 30px;
+}
+table th{
+    color: hsl(14, 45%, 36%);
+    font-weight: bold;
+}
+
+ .attribution { font-size: 0.6875rem;
+    position: fixed; 
+    bottom: 10px;
+    right: 20px;
+}   
+    .attribution a { color: hsl(228, 45%, 44%); }
